@@ -1,0 +1,15 @@
+本文档记录作者2019年大三下在华工进行实习的内容。包括：数据集和代码。
+
+数据集：
+来自西储大学轴承故障数据 http://csegroups.case.edu/bearingdatacenter/home
+实训从中选取105(Inner error)、118(Ball error)、130(Outer Centered)、144(Outer Orthogonal)和156(Outer Opposite)文件。
+
+代码：
+1）文件整合代码：combile_data.py
+2）双层自编码器代码：encoder-two.py
+   四层自编码器代码：encoder-four.py
+3）softmax分类器代码:softmax-fullbatch.py
+
+
+
+
